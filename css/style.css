@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+
+}
+
+.testo {
+  text-align: center;
+  padding: 20px;
+  color: rgb(50, 50, 50);
+}
+
+.immagine {
+  display: flex;
+  align-content: center;
+
+  border: 1px solid rgb(50, 50, 50);
+  border-radius: 4px;
+  height: 800px;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
